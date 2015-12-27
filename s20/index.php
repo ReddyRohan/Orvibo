@@ -16,6 +16,7 @@ S20 remote
 
 <!-- UPDATE THE PATH OF THE FILE orvfms.css BELOW TO MATCH
      YOUR LOCAL CONFIGURATION.                       -->
+<!--<link rel="stylesheet" type="text/css" href="../css/orvfms.css"> -->
 <link rel="stylesheet" type="text/css" href="../css/orvfms.css"> 
 <script>
       function convToString(time){
